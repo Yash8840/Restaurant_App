@@ -1,0 +1,21 @@
+{
+  "name": "food_new_akshay",
+  "version": "1.0.0",
+  "description": "new namaste_food app",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "\"jest\""
+  },
+  "author": "yash",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-responsive-carousel": "^3.2.23",
+    "react-router-dom": "^6.30.1"
+  }
+}
